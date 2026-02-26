@@ -1,6 +1,6 @@
 cask "nonotch" do
-  version "1.0.25"
-  sha256 "96a61fa81fe13a37e6a60fb5d26e19c7dc0490b5cd815ff4c7a59ea6c555bdf3"
+  version "1.0.47"
+  sha256 "22f087e9141c26aa3f49b33fed35a99e836e96e6daf467b380b3ae4f982ff76a"
 
   url "https://github.com/box-kr/no_notch/releases/download/v#{version}/NoNotch-#{version}.zip"
   name "NoNotch"
